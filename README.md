@@ -23,3 +23,6 @@
 ### Day 7:
 - [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
 - [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
+### Day 8:
+- [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
+- [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
