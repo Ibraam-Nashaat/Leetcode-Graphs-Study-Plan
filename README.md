@@ -41,3 +41,10 @@
 - [433. Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)
 - [752. Open the Lock](https://leetcode.com/problems/open-the-lock/)
 - [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
+### Day 13:
+- [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
+- [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
+### Day 14:
+- [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/)
+- [886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)
+- [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
